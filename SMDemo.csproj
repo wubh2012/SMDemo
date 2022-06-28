@@ -60,6 +60,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SM2Utils.cs" />
     <Compile Include="Sm3Utils.cs" />
     <Compile Include="Sm4Utils.cs" />
     <EmbeddedResource Include="Form1.resx">
